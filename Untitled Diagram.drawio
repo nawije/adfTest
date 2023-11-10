@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T15:38:43.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="QrG5JN4ZVQk9kjbjcFx1" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-10T15:38:57.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="twV0D8Z7jkONK1Nc_XVw" version="22.1.0" type="github" pages="2">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="2739.5" dy="2186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#000000" math="0" shadow="0">
       <root>
@@ -128,7 +128,11 @@
           <mxGeometry x="172.41" y="100" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vp7P1lviIWNvWEo67ATT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.472;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;" parent="_L5uLnqTO5X1__9NJHi6-8" source="vp7P1lviIWNvWEo67ATT-28" target="_L5uLnqTO5X1__9NJHi6-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="231" y="150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vp7P1lviIWNvWEo67ATT-28" value="App gateway" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;" parent="_L5uLnqTO5X1__9NJHi6-8" vertex="1">
           <mxGeometry x="206.41" y="100.75" width="50" height="50" as="geometry" />
