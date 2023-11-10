@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T11:55:32.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="PdWvJW_lHIYWULBvQfm0" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-10T15:38:43.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="QrG5JN4ZVQk9kjbjcFx1" version="22.1.0" type="github" pages="2">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="2936.5" dy="2375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="2739.5" dy="2186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -124,10 +124,10 @@
         <mxCell id="_L5uLnqTO5X1__9NJHi6-9" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" parent="_L5uLnqTO5X1__9NJHi6-8" vertex="1">
           <mxGeometry x="739.9999999999999" y="10" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vp7P1lviIWNvWEo67ATT-25" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#000000;align=center;strokeColor=#FFFFFF;" parent="_L5uLnqTO5X1__9NJHi6-8" vertex="1">
+        <mxCell id="vp7P1lviIWNvWEo67ATT-25" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#d5e8d4;fontSize=12;align=center;strokeColor=#82b366;" parent="_L5uLnqTO5X1__9NJHi6-8" vertex="1">
           <mxGeometry x="172.41" y="100" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vp7P1lviIWNvWEo67ATT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_L5uLnqTO5X1__9NJHi6-8" source="vp7P1lviIWNvWEo67ATT-28" target="_L5uLnqTO5X1__9NJHi6-32" edge="1">
+        <mxCell id="vp7P1lviIWNvWEo67ATT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.472;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;" parent="_L5uLnqTO5X1__9NJHi6-8" source="vp7P1lviIWNvWEo67ATT-28" target="_L5uLnqTO5X1__9NJHi6-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vp7P1lviIWNvWEo67ATT-28" value="App gateway" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;" parent="_L5uLnqTO5X1__9NJHi6-8" vertex="1">
@@ -166,8 +166,8 @@
         <mxCell id="23046e2b9bb16c14-48" value="External Vnet" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.clouds.azure;rounded=1;fontSize=12;fontColor=#FFFFFF;align=center;" parent="_L5uLnqTO5X1__9NJHi6-8" vertex="1">
           <mxGeometry x="333.40999999999997" y="110" width="50" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="kJQ65mU3WzUAtORWbZ_n-70" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Peering_Service.svg;" vertex="1" parent="_L5uLnqTO5X1__9NJHi6-8">
-          <mxGeometry x="206.41" y="182.92" width="38" height="38.56" as="geometry" />
+        <mxCell id="kJQ65mU3WzUAtORWbZ_n-70" value="Peering" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Peering_Service.svg;" vertex="1" parent="_L5uLnqTO5X1__9NJHi6-8">
+          <mxGeometry x="190" y="181.59" width="28" height="28.41" as="geometry" />
         </mxCell>
         <mxCell id="23046e2b9bb16c14-113" value="Centrepoint Infrastructure" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-90" y="-90" width="1510" height="40" as="geometry" />
