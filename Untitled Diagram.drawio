@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T15:38:57.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="twV0D8Z7jkONK1Nc_XVw" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-10T17:42:48.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="v8TCAs8cg8P_jHckVDbK" version="22.1.0" type="github" pages="2">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="2739.5" dy="2186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#000000" math="0" shadow="0">
       <root>
@@ -164,8 +164,8 @@
         <mxCell id="_L5uLnqTO5X1__9NJHi6-17" value="Dns zones" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" parent="_L5uLnqTO5X1__9NJHi6-8" vertex="1">
           <mxGeometry x="402.40999999999985" y="362" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="kJQ65mU3WzUAtORWbZ_n-66" value="Managed identity:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;1 user managed identity&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;for 2 backend services (API + functions) to have access to SQL, Key vault, App config + storage accounts&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_L5uLnqTO5X1__9NJHi6-8">
-          <mxGeometry x="660" y="290" width="230" height="110" as="geometry" />
+        <mxCell id="kJQ65mU3WzUAtORWbZ_n-66" value="Managed identity:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;1 user managed identity&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;for 2 backend services (API + functions) to have access to SQL, Key vault, App config + storage accounts&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_L5uLnqTO5X1__9NJHi6-8">
+          <mxGeometry x="660" y="260" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="23046e2b9bb16c14-48" value="External Vnet" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.clouds.azure;rounded=1;fontSize=12;fontColor=#FFFFFF;align=center;" parent="_L5uLnqTO5X1__9NJHi6-8" vertex="1">
           <mxGeometry x="333.40999999999997" y="110" width="50" height="31.5" as="geometry" />
