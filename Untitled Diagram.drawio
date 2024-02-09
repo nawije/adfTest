@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T12:37:46.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="b83hqdwx8etXPQTYdLrn" version="23.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-09T12:38:19.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="dI7SERKjfe9Y6QEjmDyR" version="23.1.1" type="github" pages="2">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="2890.5" dy="2334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#000000" math="0" shadow="0">
       <root>
@@ -396,9 +396,6 @@
         </mxCell>
         <mxCell id="E3Ur6eQypYM1XEa77BI2-74" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="E3Ur6eQypYM1XEa77BI2-1">
           <mxGeometry x="356.09000000000003" y="361.65" width="25.82" height="31.35" as="geometry" />
-        </mxCell>
-        <mxCell id="E3Ur6eQypYM1XEa77BI2-76" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="E3Ur6eQypYM1XEa77BI2-1">
-          <mxGeometry x="300" y="100.75" width="25.82" height="31.35" as="geometry" />
         </mxCell>
         <mxCell id="E3Ur6eQypYM1XEa77BI2-77" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="E3Ur6eQypYM1XEa77BI2-1">
           <mxGeometry x="450" y="172.24" width="25.82" height="31.35" as="geometry" />
